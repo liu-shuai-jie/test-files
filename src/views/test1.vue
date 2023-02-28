@@ -9,8 +9,8 @@
       <p>云服务器</p>
       <p>域名服务</p>
       <p>网站备案</p>
-      <p>省略号</p>
-      <p>加号</p>
+      <p><i class="fa-regular fa-ellipsis" style="font-size: 24px"></i></p>
+      <p><i class="fa-regular fa-plus" style="font-size: 24px"></i></p>
     </div>
     <div>
       <p><i style="font-size: 24px" class="fa-sharp fa-solid fa-qrcode"></i></p>
