@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>请查看 files/src/views/test4.vue 文件</h1>
+    <h1>F12打开控制台看输出结果,请查看 files/src/views/test4.vue 文件</h1>
   </div>
 </template>
 <script>
